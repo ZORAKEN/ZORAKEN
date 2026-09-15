@@ -108,21 +108,6 @@ Machine learning project for rainfall prediction incorporating preprocessing, ex
 ---
 
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZORAKEN&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZORAKEN&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with people working in **Machine Learning, AI, NLP, Audio Processing, and Signal Processing**.
