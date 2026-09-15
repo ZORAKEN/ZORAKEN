@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Olivia Gijo 👋
+# Hi👋
 
 ### Machine Learning · Deep Learning · NLP · Signal Processing
 
