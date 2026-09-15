@@ -107,37 +107,7 @@ Machine learning project for rainfall prediction incorporating preprocessing, ex
 
 ---
 
-## 📚 Areas I'm Exploring
 
-```text
-Machine Learning
-       │
-       ├── Supervised Learning
-       ├── Unsupervised Learning
-       ├── Ensemble Methods
-       └── Model Explainability
-       
-Deep Learning
-       │
-       ├── CNNs
-       ├── PyTorch
-       ├── Optimization
-       └── Generative Models
-
-Natural Language Processing
-       │
-       ├── Text Classification
-       ├── Embeddings
-       ├── RAG
-       └── LLM Applications
-
-Signal & Audio Processing
-       │
-       ├── Digital Signal Processing
-       ├── Audio Compression
-       ├── Acoustic Synthesis
-       └── Generative Audio
-```
 
 ---
 
@@ -150,40 +120,6 @@ Signal & Audio Processing
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZORAKEN&layout=compact&theme=github_dark&hide_border=true" />
 
 </p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZORAKEN&theme=github-dark&hide_border=true&area=true" width="98%"/>
-
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ZORAKEN/ZORAKEN/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ZORAKEN/ZORAKEN/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/ZORAKEN/ZORAKEN/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Activity"
-    width="100%"
-  />
-</picture>
-
-</div>
 
 ---
 
